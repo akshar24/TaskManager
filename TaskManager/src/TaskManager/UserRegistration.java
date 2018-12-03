@@ -27,7 +27,7 @@ public class UserRegistration implements Registration {
 	public String register() {
 		Object[] results = validateData();
 		boolean result = true;
-		validateUserRegistration v = (ValidateUserRegistration) results[1];
+		ValidateUserRegistration v = (ValidateUserRegistration) results[1];
 		if (!result) {
 			String errors = "";
 			for (String error : v.errors()) {
