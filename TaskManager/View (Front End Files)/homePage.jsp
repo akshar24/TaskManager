@@ -17,7 +17,7 @@
 </head>
 <body>
 <div class ="large text-center">
-<h1 align="center">!!Welcome!!</h1>
+
 
 
 </div>
@@ -25,7 +25,6 @@
 <div class="jumbotron text-center" style="background-image:url('${pic}'); height: 203px; width: 644px; border: 1px solid black;" align="middle">
 
   <!--h1>Welcome!</h1>
-  <!--p>This is our group project for CSC131 Spring 2018</p>
   <!--img src="task_management.png" alt="Task Manager"> //-->  
 </div>
   
